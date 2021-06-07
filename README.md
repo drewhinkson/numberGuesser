@@ -1,5 +1,5 @@
 # numberGuesser
-#React native app using expo
-#Run expo install 
-#expo start
+*React native app using expo <br/>
+*Run expo install <br/>
+*expo start<br/>
 
