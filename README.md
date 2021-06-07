@@ -5,7 +5,7 @@
 *expo start<br/>
 
 
-<img src="https://github.com/kakoon8/youtubewatcher/blob/master/Capture1.PNG" />
-<img src="https://github.com/kakoon8/youtubewatcher/blob/master/Capture2.PNG" />
-<img src="https://github.com/kakoon8/youtubewatcher/blob/master/Capture4.PNG" />
-<img src="https://github.com/kakoon8/youtubewatcher/blob/master/Capture5.PNG" />
+<img src="https://github.com/kakoon8/numberGuesser/blob/master/Capture1.PNG" />
+<img src="https://github.com/kakoon8/numberGuesser/blob/master/Capture2.PNG" />
+<img src="https://github.com/kakoon8/numberGuesser/blob/master/Capture4.PNG" />
+<img src="https://github.com/kakoon8/numberGuesser/blob/master/Capture5.PNG" />
